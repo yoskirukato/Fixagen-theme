@@ -1,0 +1,21 @@
+a:focus{
+	outline: none;
+}
+u {
+  text-decoration: none;
+  border-bottom: 1px dotted #428bca;
+}
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+	font-family: 'Roboto Condensed', sans-serif;
+}
+h2, .h2 {
+    font-size: 25px;
+}
+.content-prev > h2{
+	margin-top: 10px;
+}
+
+body{
+    background: url(../img/ps_bg_.png) no-repeat center center fixed !important; 
+    background-size: cover !important;
+}
