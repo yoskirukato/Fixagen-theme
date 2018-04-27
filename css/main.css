@@ -19,3 +19,17 @@ body{
     background: url(../img/ps_bg_.png) no-repeat center center fixed !important; 
     background-size: cover !important;
 }
+img {
+    max-width: 100%;
+    height: auto;
+}
+.navbar-inverse .navbar-nav > li > a {
+    color: #bdc3c7;
+}
+.all{
+	box-shadow: rgba(0,0,0,0.5) 0px 0px 10px;
+	padding: 10px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	background-color: white;
+}
