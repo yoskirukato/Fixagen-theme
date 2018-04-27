@@ -1,2 +1,2 @@
 # Fixagen-theme
-Theme for fixagen site on wordpress
+Тема для сайта fixagen.ru
