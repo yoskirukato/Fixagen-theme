@@ -8,5 +8,6 @@
 </head>
 <body>
     <div class="start">1</div>
+    <div class="ret">второй тест</div>
 </body>
 </html>
